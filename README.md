@@ -1,4 +1,5 @@
-# Resolute Optimization
+# <img width="4128" height="1028" alt="Resolute Optimization " src="https://github.com/user-attachments/assets/62cb4a4c-531f-416e-bd2e-e2c3c0bdaefa" />
+
 
 The **Resolute Optimization** modpack is built to be a **high-performance foundation for Minecraft**.  
 By combining the most proven optimization mods with carefully tuned configurations, it significantly improves:
@@ -12,7 +13,8 @@ Whether you’re on a modest laptop or a high-end rig, Resolute Optimization del
 
 ---
 
-## Purpose
+## <img width="4128" height="1028" alt="Purpose" src="https://github.com/user-attachments/assets/f22a5f15-e6b2-4051-9787-d224151fc525" />
+
 
 This pack is **lean by design**:  
 - No extra visuals  
@@ -26,7 +28,8 @@ It gives you a **clean, optimized core** that you can expand however you like—
 
 ---
 
-## Why Resolute?
+## <img width="4128" height="1028" alt="Why Resolute" src="https://github.com/user-attachments/assets/7d761469-9529-4c06-bfab-63a58ca05ef6" />
+
 
 - **Cutting-edge optimization mods** configured for maximum efficiency  
 - **Rigorous testing** to ensure improvements across multiple platforms  
@@ -35,7 +38,8 @@ It gives you a **clean, optimized core** that you can expand however you like—
 
 ---
 
-## Summary
+## <img width="4128" height="1028" alt="Summary" src="https://github.com/user-attachments/assets/9437c311-3a38-476c-a8d4-d0e1d2978f53" />
+
 
 If you’re looking for a **no-nonsense performance pack** that puts speed and stability first—  
 while giving you the freedom to customize your Minecraft experience—  
